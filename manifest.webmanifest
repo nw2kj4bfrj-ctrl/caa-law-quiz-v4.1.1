@@ -1,0 +1,14 @@
+{
+  "name": "民航法規手機刷題工具",
+  "short_name": "民航刷題",
+  "description": "民航法規筆試題庫手機刷題工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1714",
+  "theme_color": "#10231c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
